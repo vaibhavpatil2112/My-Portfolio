@@ -1,1 +1,3 @@
-# My-Portfolio![Vaibhav's portfolio - Google Chrome 29-07-2022 21_30_07](https://user-images.githubusercontent.com/86523191/181799072-b3c07007-6c82-4809-821a-53cba1a3dc81.png)
+# My-Portfolio!
+
+![Vaibhav's portfolio](https://user-images.githubusercontent.com/86523191/181803587-e2609ddc-bf1a-4627-87d6-26f8b793de5b.png)
