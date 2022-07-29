@@ -1,0 +1,715 @@
+@media only screen and (max-width: 1199px) {
+  .container .col-md-7 h1 {
+    font-size: 6.5vmin;
+  }
+  header .row .col-md-7 {
+    padding: 4vmin 0vmin;
+    padding-bottom: 3vmin;
+  }
+  .btn {
+    margin: 1rem;
+    width: 203px;
+    height: 52px;
+    font-size: 1rem;
+  }
+  .review .container3 .rev .fa-quote-right {
+    top: 0.6rem;
+    right: 1rem;
+    font-size: 3.4rem;
+  }
+  .card-body .pricing > h1 {
+    font-size: 6vmin;
+  }
+  .btn {
+    margin: 0rem;
+    width: 233px;
+  }
+  .col-md-2 {
+    flex: 0 0 20.666667%;
+    max-width: 18.666667%;
+  }
+  .review .container3 .rev .user .comment {
+    font-size: 0.8rem;
+  }
+  /* ..................................................................contact......................................................... */
+
+  .contact .image-ct img {
+    width: 90%;
+    padding: 1rem;
+    margin-left: 5rem;
+  }
+  .contact form {
+    flex: 1 30rem;
+    padding: 2rem 1rem;
+    margin: 1rem;
+  }
+  .btn {
+    width: 179px;
+    height: 46px;
+    font-size: 0.9rem;
+  }
+  .maps {
+    width: 100%;
+    display: inline-block;
+    box-shadow: none;
+  }
+  .con {
+    box-shadow: none;
+  }
+  .con h1 {
+    padding-left: 1rem;
+    font-size: 2.5rem;
+  }
+  .con .p {
+    padding-left: 1rem;
+    margin-top: 3rem;
+  }
+  .con .mail {
+    padding-left: 1rem;
+  }
+  .con .phone {
+    padding-left: 1rem;
+  }
+  .contact .sci {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact .sci a i {
+    justify-content: center;
+    font-size: 1.5rem;
+    margin: 0.5rem;
+    padding: 0.7rem;
+  }
+}
+
+/* .......................................................................990px............................................................ */
+@media only screen and (max-width: 990px) {
+  .btns {
+    padding: 0.6rem;
+    background: black;
+    color: white;
+    height: 40px;
+    width: 150px;
+    border-radius: 1rem;
+    margin-top: 0.9rem;
+    margin-right: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    text-decoration: none;
+  }
+  .btn {
+    margin: 1rem;
+    width: 195px;
+  }
+  .review .container3 .container31 {
+    margin: 0rem;
+    padding: 1rem;
+  }
+  .col-md-2 {
+    flex: 1 0 20.666667%;
+    max-width: 31.666667%;
+  }
+  /* .........................................................................login................................................. */
+  .sec .container-log {
+    height: 100%;
+    width: 100%;
+    margin-top: 6rem;
+  }
+  .sec {
+    padding-left: 0rem;
+  }
+  .sec .container-log .box-log .submit-box input {
+    width: 25%;
+  }
+  .logo .sci a i {
+    margin: 0.8rem;
+    padding: 0.8rem;
+  }
+  /* ..................................................................contact......................................................... */
+
+  .contact .image-ct img {
+    width: 105%;
+    padding: 1rem;
+    /* margin-left: 5rem; */
+  }
+  .contact form {
+    flex: 1 30rem;
+    padding: 2rem 1rem;
+    margin: 1rem;
+  }
+  .btn {
+    width: 179px;
+    height: 46px;
+    font-size: 0.9rem;
+  }
+  .maps {
+    width: 100%;
+    display: inline-block;
+    box-shadow: none;
+  }
+  .con {
+    box-shadow: none;
+  }
+  .con h1 {
+    padding-left: 1rem;
+    font-size: 2.5rem;
+  }
+  .con .p {
+    padding-left: 1rem;
+    margin-top: 3rem;
+  }
+  .con .mail {
+    padding-left: 1rem;
+  }
+  .con .phone {
+    padding-left: 1rem;
+  }
+  .contact .sci {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact .sci a i {
+    justify-content: center;
+    font-size: 1.5rem;
+    margin: 0.5rem;
+    padding: 0.7rem;
+  }
+}
+
+/* .......................................................................780px.............................................................. */
+@media only screen and (max-width: 780px) {
+  header .navbar-brand {
+    padding-left: 1rem;
+  }
+  header .row .col-md-7 {
+    padding: 2vmin 1vmin;
+    padding-bottom: 1vmin;
+  }
+  header .container .col-md-7 h1 {
+    font-size: 6.5vmin;
+  }
+  .btn {
+    margin: 1.9rem;
+    width: 181px;
+    height: 48px;
+    font-size: 1rem;
+  }
+  .btns {
+    width: 117px;
+    height: 40px;
+  }
+  header .row .col-md-5 img {
+    width: 55%;
+  }
+  .explore-content h1 {
+    font-size: 6vmin;
+  }
+  .explore-content {
+    padding: 0px;
+    padding-left: 0rem;
+    margin-top: 1rem;
+  }
+  .explore-content p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0px 1rem 1rem 1rem;
+  }
+  .btn {
+    width: 200px;
+    height: 50px;
+    font-size: 1rem;
+  }
+  .section-1 .row .col-md-6 .pray img {
+    height: 559px;
+    width: 100%;
+  }
+  .section-1 {
+    padding: 11vmin 0vmin;
+  }
+  .section-1 .row .col-md-6 .panel {
+    position: initial;
+    width: initial;
+    height: initial;
+  }
+  .section-1 .row .col-md-6 .panel {
+    padding: 2vmin 2vmin 2vmin 2vmin;
+  }
+  .container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .cover .content {
+    padding-top: 11vmin;
+  }
+  .cover .content > h1 {
+    font-size: 5vmin;
+  }
+  .cover .content > p {
+    font-size: 2.7vmin;
+  }
+  .h2,
+  h2 {
+    font-size: 1.4rem;
+  }
+  /* .numbers .rect {
+  width: 7rem;
+  height: 9rem;
+} */
+  .rect img {
+    height: 56px;
+    width: 77px;
+  }
+  .numbers .rect > p {
+    font-size: 0.9rem;
+  }
+
+  .section-2 .cover {
+    background-position: -25vmin -10vmin;
+  }
+  .numbers .rect {
+    width: 10rem;
+    height: 8rem;
+  }
+  .numbers .rect h1 {
+    font-size: 2rem;
+  }
+  .purchase > h1 {
+    padding-top: 9vmin;
+  }
+
+  .h1,
+  h1 {
+    font-size: 2.2rem;
+  }
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .purchase .cards .card {
+    width: 13rem;
+    margin: 2vmin 3vmin;
+  }
+  .card-body ul li {
+    font-size: 1rem;
+    padding: -0.7rem;
+  }
+  .card-body ul li .fa-check {
+    font-size: 1.3rem;
+  }
+  .card-body .pricing > h1 {
+    font-size: 4.3vmin;
+    padding: 1em 0.5em;
+  }
+  .btn {
+    width: 155px;
+    height: 46px;
+    font-size: 0.7rem;
+  }
+  .review h1 {
+    font-size: 2.1rem;
+    padding-top: 2rem;
+  }
+  .review .container3 .container31 {
+    margin: 0rem;
+    padding: 0rem;
+  }
+  .review .container3 .rev {
+    padding: 1rem;
+    margin: 0.5rem;
+  }
+  .review .container3 .rev .fa-quote-right {
+    font-size: 3rem;
+  }
+  .review .container3 .rev .user img {
+    height: 6rem;
+    width: 6rem;
+  }
+  .review .container3 .rev .user .comment {
+    font-size: 0.7rem;
+  }
+
+  .section-3 {
+    height: inherit;
+    padding: 10vmin !important;
+  }
+  .section-3 .row h1 {
+    padding: 6vmin 4vmin;
+  }
+  .section-3 .platform .col-md-6 {
+    text-align: center !important;
+  }
+  .section-3 .desktop i {
+    font-size: 8vmin;
+  }
+  .section-4 .carousel-item {
+    padding-left: 0.6rem;
+  }
+  footer .row .col-md-2 {
+    margin-top: 8vmin;
+  }
+
+  /* ...........................................................................about.................................... */
+
+  .ab img {
+    height: 318px;
+    width: 329px;
+    margin: 1rem;
+  }
+  .col-md-5 img {
+    height: 200px;
+    width: 430px;
+  }
+  .aboutcontainer {
+    margin: 2rem;
+  }
+  .col-md-2 {
+    flex: 1 0 20.666667%;
+    max-width: 100.666667%;
+  }
+  /* .........................................................................login................................................. */
+  .sec .container-log {
+    height: 100%;
+    width: 100%;
+    margin-top: 6rem;
+  }
+  .sec {
+    padding-left: 0rem;
+  }
+  .sec .container-log .box-log .submit-box input {
+    width: 30%;
+  }
+  .logo .sci a i {
+    margin: 0.8rem;
+    padding: 0.8rem;
+  }
+  /* ..................................................................contact......................................................... */
+
+  .contact .image-ct img {
+    width: 105%;
+    padding: 1rem;
+  }
+  .contact form {
+    flex: 0 30rem;
+    padding: 2rem 1rem;
+    margin: 1rem;
+  }
+  .btn {
+    width: 179px;
+    height: 46px;
+    font-size: 0.9rem;
+  }
+  .maps {
+    width: 100%;
+    display: inline-block;
+    box-shadow: none;
+  }
+  .con {
+    box-shadow: none;
+  }
+  .con h1 {
+    padding-left: 1rem;
+    font-size: 2.5rem;
+  }
+  .con .p {
+    padding-left: 1rem;
+    margin-top: 3rem;
+  }
+  .con .mail {
+    padding-left: 1rem;
+  }
+  .con .phone {
+    padding-left: 1rem;
+  }
+  .contact .sci {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact .sci a i {
+    justify-content: center;
+    font-size: 1.5rem;
+    margin: 0.5rem;
+    padding: 0.7rem;
+  }
+}
+
+/* ...............................................................................400px................................................. */
+@media only screen and (max-width: 400px) {
+  .section-4 .carousel-inner {
+    margin-left: -4vmin;
+  }
+  .btn {
+    margin: 1rem;
+    width: 162px;
+    height: 49px;
+    font-size: 1rem;
+  }
+  header .row .col-md-7 {
+    padding: 4vmin 0vmin;
+    padding-bottom: 1vmin;
+  }
+  img {
+    vertical-align: middle;
+    border-style: none;
+    height: 253px;
+    width: 109px;
+  }
+  .explore {
+    height: 52vh;
+  }
+  .explore-content {
+    padding: 16px;
+    padding-left: -1rem;
+    margin-top: 1rem;
+    font-size: 6vmin;
+  }
+
+  .explore-content p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0px 0rem 1rem 1rem;
+    font-size: 0.7rem;
+  }
+  .explore-content .btn {
+    margin-top: 5px;
+  }
+
+  .btn {
+    margin: 1rem;
+    width: 166px;
+    height: 39px;
+    font-size: 0.8rem;
+  }
+  .section-1 .row .col-md-6 .pray img {
+    height: 326px;
+    width: 93%;
+  }
+  .section-1 .row .col-md-6 .panel h1 {
+    font-size: 1.5em;
+  }
+  .h2,
+  h2 {
+    font-size: 1.3rem;
+  }
+  .section-1 .row .col-md-6 .panel p {
+    font-size: 0.6em;
+  }
+  .cover {
+    height: 63vmin;
+  }
+  .rect img {
+    height: 56px;
+    width: 59px;
+  }
+  .numbers .rect > p {
+    font-size: 0.8rem;
+  }
+  .numbers .rect {
+    width: 6.8rem;
+    height: 8rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .purchase > h1 {
+    padding-top: 7vmin;
+  }
+
+  .h1,
+  h1 {
+    font-size: 1.7rem;
+    margin-top: 0.6em;
+  }
+  .purchase .cards .card {
+    width: 18rem;
+    margin: 3vmin 9vmin;
+  }
+  .cards .title {
+    padding: 1.1em 2.2em;
+    font-size: 0.1vmin;
+  }
+  dl,
+  ol,
+  ul {
+    margin-top: 0;
+    margin-bottom: 0rem;
+  }
+  .card-body ul li {
+    font-size: 1em;
+    padding: 0.2rem;
+  }
+  .btn {
+    width: 179px;
+    height: 36px;
+    font-size: 0.7rem;
+  }
+  .review h1 {
+    font-size: 1.5rem;
+    padding-top: 0.6rem;
+  }
+  .review .container3 .container31 {
+    margin: 0rem;
+    padding: 0rem;
+  }
+  .review .container3 .rev {
+    padding: 5rem;
+    margin: 1rem;
+  }
+  .review .container3 .rev .fa-quote-right {
+    top: 0.2rem;
+    right: 1rem;
+    font-size: 3rem;
+  }
+  .review .container3 .rev {
+    padding: 4rem;
+    margin: 0.4rem;
+  }
+  .review .container31 {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+  }
+
+  .review .container3 .rev .user img {
+    height: 6rem;
+    width: 6rem;
+    margin-top: -3rem;
+  }
+  review .container3 .rev .user h3 {
+    font-size: 1rem;
+  }
+  .review .container3 .rev .user .stars i {
+    font-size: 0.8rem;
+    padding: 0rem 0;
+  }
+  .review .container3 .rev .user .comment {
+    font-size: 0.8rem;
+  }
+  .section-3 .col-md-12 > p {
+    padding: 0px 0em;
+    padding-bottom: 1em;
+    font-size: 4vmin;
+  }
+  .section-3 .row h1 {
+    padding: 4vmin 1vmin;
+  }
+
+  .section-3 .col-md-12 > h1 {
+    padding: 2em 0 0.5em 0;
+    font-size: 7vmin;
+  }
+  .button-group img {
+    height: 50px;
+    width: 80px;
+  }
+
+  /* ...........................................................about section...................................... */
+  .ab img {
+    height: 212px;
+    width: 240px;
+    margin: 1rem;
+  }
+  .ab {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .para p {
+    margin: 0rem;
+    font-size: 0.8rem;
+    width: 290px;
+  }
+  .para {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .aboutcontainer {
+    margin: 0rem;
+  }
+  .col-md-5 img {
+    height: 200px;
+    width: 230px;
+  }
+
+  /* ......................................................................login ........................................................ */
+
+  .sec .container-log {
+    height: 100%;
+    width: 100%;
+    margin-top: 6rem;
+  }
+  .sec {
+    padding-left: 0rem;
+  }
+  .sec .container-log .box-log .submit-box input {
+    width: 76%;
+  }
+  .logo .sci a i {
+    margin: 0.8rem;
+    padding: 0.8rem;
+  }
+
+  /* ..................................................................contact......................................................... */
+
+  .contact .image-ct img {
+    width: 105%;
+    padding: 1rem;
+  }
+  .contact form {
+    flex: 0 30rem;
+    padding: 2rem 1rem;
+    margin: 1rem;
+  }
+  .btn {
+    width: 179px;
+    height: 46px;
+    font-size: 0.9rem;
+  }
+  .maps {
+    width: 100%;
+    display: inline-block;
+    box-shadow: none;
+  }
+  .con {
+    box-shadow: none;
+  }
+  .con h1 {
+    padding-left: 1rem;
+    font-size: 2.5rem;
+  }
+  .con .p {
+    padding-left: 1rem;
+    margin-top: 3rem;
+  }
+  .con .mail {
+    padding-left: 1rem;
+  }
+  .con .phone {
+    padding-left: 1rem;
+  }
+  .contact .sci {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact .sci a i {
+    justify-content: center;
+    font-size: 1.5rem;
+    margin: 0.5rem;
+    padding: 0.7rem;
+  }
+}

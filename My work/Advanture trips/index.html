@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Advanture</title>
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- navbar -->
+    <div class="navbar">
+      <h1 class="logo">ADVANTURE</h1>
+      <ul class="nav-links">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#Tours">Tours</a></li>
+        <li><a href="#Explore">Explore</a></li>
+        <li><a href="#About">About</a></li>
+        <li><a href="#contact" class="ctn">Contact</a></li>
+      </ul>
+      <i class="fas fa-bars"></i>
+    </div>
+    <header>
+      <div class="header-content">
+        <h2>Explore The Colorful World</h2>
+        <div class="line"></div>
+        <h1>A WONDERFUL GIFT</h1>
+        <a href="#" class="ctn">Learn More</a>
+      </div>
+    </header>
+
+    <!-- events -->
+    <section class="events" id="About">
+      <div class="title">
+        <h1> Our Upcoming Events</h1>
+        <div class="line"></div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <img src="./img/mountain.jpg" alt="" />
+          <h4>Everest Camping trek</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
+            omnis tempora pariatur quod eligendi non voluptatem consectetur nam
+            harum quisquam?
+          </p>
+          <a href="#" class="ctn">Learn more</a>
+        </div>
+        <div class="col">
+          <img src="./img/sky.jpg" alt="" />
+          <h4>Holidays</h4>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
+            omnis tempora pariatur quod eligendi non voluptatem consectetur nam
+            harum quisquam?
+          </p>
+          <a href="#" class="ctn">Learn more</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Explore -->
+    <section class="explore" id="Explore">
+      <div class="explore-content">
+        <h1>EXPLORE THE WORLD</h1>
+        <div class="line"></div>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius
+          repellendus quaerat nihil asperiores ullam veniam.
+        </p>
+        <a href="#" class="ctn">Learn more</a>
+      </div>
+    </section>
+
+    <section class="tours" id="Tours">
+      <div class="row">
+        <div class="cols content-col">
+          <h1>UPCOMING TOURS & TRAVELS</h1>
+          <div class="line"></div>
+
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
+            facilis a possimus quod pariatur excepturi at suscipit consequatur
+            culpa iusto.
+          </p>
+          <a href="#" class="ctn">Learn more</a>
+        </div>
+        <div class="col image-col">
+            <div class="image-gallery">
+          <img src="./img/camp.jpg" alt="img not found" />
+          <img src="./img/sea.jpg" alt="img not found" />
+          <img src="./img/sea mountain.jpg" alt="img not found" />
+          <img src="./img/cocotree.jpg" alt="img not found" />
+        </div>
+    </div>
+      </div>
+    </section>
+
+    <section class="footer" id="contact">
+        <p>485 fifth Avenue,GOA 104532, india| phone:900-123-432 | Email:contact@1234.com</p>
+        <p>&copy; copyright 2021 Advanture</p>
+
+    </section>
+
+    <script>
+      const menuBtn = document.querySelector(".fa-bars");
+      const navlinks = document.querySelector(".nav-links");
+
+      menuBtn.addEventListener("click", () => {
+        navlinks.classList.toggle("mobile-menu");
+      });
+    </script>
+  </body>
+</html>
