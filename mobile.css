@@ -1,0 +1,76 @@
+@media only screen and (max-width: 900px) {
+
+    section {
+        width: 99%;
+        min-height: 74vh;
+        padding: 0rem 2rem;
+    }
+  .navbar {
+    padding: 0.5rem 1rem 0 4rem;
+  }
+  .header-content .left-header .image img {
+    width: 120%;
+    margin: 36rem 4rem -4rem 16rem;
+  }
+  .header-content .right-header {
+    margin: -12rem 0rem 4rem -6rem;
+  }
+  .theme-btn {
+    width: 60px;
+    height: 60px;
+  }
+  .about .content .left .img-card img {
+    height: 313px;
+    width: 312px;
+  }
+  .quali {
+    padding: 1rem 1.5rem;
+    margin-left: 0.5rem;
+}
+.portfolio {
+    justify-content: center;
+    align-items: center;
+  }
+.portfolio-item{
+    width: 242px;
+}
+.contact {
+    justify-content: center;
+}
+ 
+.right-contact {
+    width: 416px;
+}
+.contact .left-contact .contact-info .contact-item {
+    width: 300px;
+}
+}
+
+@media only screen and (max-width: 700px) {
+    section {
+        width: 99%;
+        min-height: 74vh;
+        /* padding: 0rem 2rem; */
+        align-items: center;
+    }
+    .heading {
+        font-size: 3.5rem;
+        margin: 3rem;
+        align-items: center;
+        display: flex;
+    }
+    .header-content .right-header {
+        margin: -14rem 8rem 5rem -11rem;
+    }
+    .header-content .left-header .image img {
+        margin: 29rem 4rem 0rem 15rem;
+    }
+    .btn-con{
+        width: 451px;
+    }
+    .main-btn .btn-icon {
+        padding: 0.6rem;
+    }
+
+}
+
