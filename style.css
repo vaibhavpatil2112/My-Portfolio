@@ -266,6 +266,14 @@ section {
   display: flex;
   align-self: flex-start;
 }
+#first-btn{
+  margin-right:.5rem ;
+  width: 250px;
+}
+#second-btn{
+  width: 230px;
+
+}
 
 .main-btn {
   border-radius: 30px;

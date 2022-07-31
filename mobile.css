@@ -49,7 +49,6 @@
   section {
     width: 99%;
     min-height: 74vh;
-    /* padding: 0rem 2rem; */
     align-items: center;
   }
   .heading {
@@ -128,6 +127,18 @@
   html {
     width: 1000px;
   }
+  .main-content {
+    width: 300vw;
+  }
+  .scroll i {
+    font-size: 5.8rem;
+    padding: 1.2rem 1.7rem;
+  }
+  .header-content {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
   .name {
     width: 900px;
   }
@@ -151,14 +162,46 @@
     margin-left: 3rem;
     align-items: center;
     display: flex;
+    justify-content: center;
+    text-align: center;
   }
   .header-content .right-header {
-    margin: -26rem 19rem 13rem -11rem;
+    margin: -24rem 0rem 10rem 14rem;
     width: 100%;
   }
   .header-content .left-header .image img {
-    margin: 80rem 16rem 2rem 16rem;
+    margin: 12rem -6rem 23rem 15rem;
   }
+  .btn-con{
+    width: 100%;
+    
+  }
+  .flex{
+    display: flex;
+    flex-direction: column;
+  }
+  #first-btn{
+    width: 520px;
+    margin: .5rem;
+
+  }
+  #second-btn{
+    width: 500px;
+    margin: .5rem;
+  }
+  .btn-text{
+    font-size: 3rem;
+    padding: 1rem;
+  }
+  .btn-icon{
+    font-size: 3rem;
+    
+  }
+  .btn-icon i {
+    padding: 1rem;
+
+  }
+  
 
   .content {
     display: flex;
@@ -256,13 +299,13 @@
     width: 133%;
     margin: 2rem;
   }
-  .items {
+  /* .items {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     margin-left: 5rem;
-  }
+  } */
 
   .portfolio .portfolio-item img {
     height: 403px;
